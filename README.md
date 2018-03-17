@@ -29,7 +29,6 @@ The app also has a **Login** functionality.
 ```
 Currently, the app supports only 4 Users :
 johnpapa, bradgreen, igorminar, martinfowler
-
 ```
 **Password** can be anything for each user.
 
