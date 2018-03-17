@@ -27,8 +27,11 @@ Each **Angular Event** has many **Sessions** associated with it that can be view
 
 The app also has a **Login** functionality. 
 ```
-Currently, app supports only **4 Users** - **johnpapa, bradgreen, igorminar, martinfowler**. **Password** can be anything.
+Currently, the app supports only 4 Users :
+johnpapa, bradgreen, igorminar, martinfowler
+
 ```
+**Password** can be anything for each user.
 
 Creating new user functionality is not yet added. Only after logging in, the user can **Like** a particular session.
 
